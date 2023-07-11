@@ -1,0 +1,69 @@
+1.	Find All Groups of Farmland - LeetCode
+2.	Sum of distance in tree
+3.	Evaluate Division - LeetCode
+4.	Minimum Number of K Consecutive Bit Flips - LeetCode
+5.	https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/
+6.	https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
+7.	3sum closest: 3Sum Closest - LeetCode
+8.	Max points on a line: Max Points on a Line - LeetCode
+9.	Next permutation: Next Permutation - LeetCode
+10.	Remove K Digits - LeetCode
+11.	Find Longest Awesome Substring - LeetCode
+12.	 Minimum Window Substring - LeetCode
+13.	.https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/description/
+14.	https://leetcode.com/problems/minimum-penalty-for-a-shop/description/
+15.	Leetcode 25 - Reverse Nodes in k-Group
+16.	Leetcode 863 - All Nodes Distance K in Binary Tree
+17.	LFU Cache: LFU Cache - LeetCode
+18.	https://leetcode.com/problems/container-with-most-water/
+19.	Strange Printer: https://leetcode.com/problems/strange-printer/
+20.	Sum of Nodes with Even-Valued Grandparent: https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
+21.	First Missing Positive: https://leetcode.com/problems/first-missing-positive/
+22.	Minimum Score After Removing Stones on a Tree: https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/
+23.	4Sum I: https://leetcode.com/problems/4sum/
+24.	Leetcode :1326 - Minimum Number of Taps to Open to Water a Garden
+25.	3Sum: https://leetcode.com/problems/3sum/
+26.	Consecutive Zeros in Linked List: link..
+27.	https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/
+28.	Smallest K-Length Subsequence With Occurrences of a Letter: https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/
+29.	Closest Room: https://leetcode.com/problems/closest-room/
+30.	Detect Cycles in 2D Grid: https://leetcode.com/problems/detect-cycles-in-2d-grid/
+31.	Minimum Number of Arrows to Burst Balloons: https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
+32.	Minimum Number of Days to Make m Bouquets - LeetCode
+
+33.	https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
+34.	https://leetcode.com/problems/longest-happy-prefix/
+35.	Minimum window substring leetcode
+36.	Remove nodes whose consecutive sum is zero
+37.	Wiggle sort
+38.	Reducing Dishes - LeetCode
+39.	Pankhurihttps://leetcode.com/problems/remove-k-digits/description/
+40.	https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/ 
+41.	Grumpy Bookstore Owner(leetcode)
+42.	grid game (leetcode)
+43.	https://leetcode.com/problems/rotating-the-box/
+44.	https://leetcode.com/problems/grumpy-bookstore-owner/
+45.	leetcode 76 - Minimum Window Substring
+46.	leetcode 210 - Course Schedule II
+47.	Leetcode 1591 - Strange printer ll
+48.	Critical connection in a network Critical Connections in a Network - LeetCode
+49.	Possible words from phone digits
+50.	Possible Words From Phone Digits | Practice | GeeksforGeeks
+51.	Minimum Score After Removals on a Tree - LeetCode
+52.	Optimal Partition of String - LeetCode
+53.	https://leetcode.com/problems/first-missing-positive/description/
+54.	https://leetcode.com/problems/surrounded-regions/
+55.	https://leetcode.com/problems/container-with-most-water/ (checking Thinking skill)
+56.	https://leetcode.com/problems/reverse-nodes-in-k-group/ (checking Implementation skill)
+57.	https://leetcode.com/problems/maximum-erasure-value/
+58.	https://leetcode.com/problems/longest-nice-subarray/
+59.	https://leetcode.com/problems/grumpy-bookstore-owner/
+60.	https://leetcode.com/problems/next-permutation/
+61.	https://leetcode.com/problems/max-chunks-to-make-sorted/
+62.	https://leetcode.com/problems/optimal-partition-of-string/
+63.	https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1
+64.	https://leetcode.com/problems/first-missing-positive/
+65.	Expalin all the project with execution and some data entry into the database
+66.	In this query, the table "employees" is sorted in descending order based on the "salary" column using the ORDER BY clause. The LIMIT clause is then used to fetch only one row, and the OFFSET clause skips the first row, effectively retrieving the second-highest salary.
+67.	https://leetcode.com/problems/reducing-dishes/
+68.	https://leetcode.com/problems/sum-of-n
