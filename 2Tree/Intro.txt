@@ -1,0 +1,5 @@
+1.Gereric Tree / N Array Tree 
+2.Binary Tree 
+3. Binary Search Tree
+
+//non contigous and non ArrayList
